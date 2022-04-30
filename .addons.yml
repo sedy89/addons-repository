@@ -1,22 +1,6 @@
 channel: stable
 addons:
   nightscout:
-    repository: marciogranzotto/addon-nightscout
+    repository: sedy89/addon-nightscout
     target: nightscout
-    image: marciogranzotto/image-{arch}-addon-nightscout
-  transmission-nas:
-    repository: marciogranzotto/addon-transmission-nas
-    target: transmission-nas
-    image: marciogranzotto/addon-transmission-nas-{arch}
-  lovelace-kindle-screensaver:
-    repository: marciogranzotto/hass-lovelace-kindle-screensaver
-    target: lovelace-kindle-screensaver
-    image: marciogranzotto/addon-lovelace-kindle-screensaver-{arch}
-  telegram-bot-amazon:
-    repository: marciogranzotto/addon-telegram-bot-amazon
-    target: telegram-bot-amazon
-    image: marciogranzotto/addon-telegram-bot-amazon-{arch}
-  prusaslicer-novnc:
-    repository: marciogranzotto/prusaslicer-novnc
-    target: prusaslicer-novnc
-    image: marciogranzotto/image-{arch}-addon-prusaslicer-novnc
+    image: sedy89/image-{arch}-addon-nightscout
