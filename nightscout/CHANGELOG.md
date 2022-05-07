@@ -1,4 +1,3 @@
-Added two more config options:
+What changed:
 
-- `theme` default UI theme
-- `import_config_url` import nightscout config from URL
+- Added the option to set AUTH_DEFAULT_ROLES in the add-on configuration
