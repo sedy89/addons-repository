@@ -3,4 +3,4 @@ addons:
   nightscout:
     repository: sedy89/addon-nightscout
     target: nightscout
-    image: sedy89/image-{arch}-addon-nightscout
+    image: marciogranzotto/image-{arch}-addon-nightscout
