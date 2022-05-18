@@ -1,10 +1,6 @@
 channel: stable
 addons:
   nightscout:
-    repository: marciogranzotto/addon-nightscout
+    repository: sedy89/addon-nightscout
     target: nightscout
-    image: marciogranzotto/image-{arch}-addon-nightscout
-  transmission-nas:
-    repository: marciogranzotto/addon-transmission-nas
-    target: transmission-nas
-    image: marciogranzotto/addon-transmission-nas-{arch}
+    image: sedy89/image-{arch}-addon-nightscout
