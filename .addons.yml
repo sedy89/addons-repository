@@ -1,6 +1,6 @@
 channel: stable
 addons:
   nightscout:
-    repository: marciogranzotto/addon-nightscout
+    repository: sedy89/image-addon-nightscout
     target: nightscout
-    image: marciogranzotto/image-{arch}-addon-nightscout
+    image: sedy89/image-addon-nightscout
