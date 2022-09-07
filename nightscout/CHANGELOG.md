@@ -1,3 +1,19 @@
+## v1.4.5
+- dockerimage update
+
+## v1.4.4
+- Update Nightscout from 14.2.2 to 14.2.5
+- Update base images
+- Update dependencies
+- Remove unsupported architectures (armv7 and i386)
+- added mmconnect env variables to config yaml
+
+## v1.2.0
+- Update Nightscout from 14.0.4 to 14.2.2
+- Update base images
+- Update dependencies
+- Remove unsupported architectures (armv7 and i386)
+
 # v1.1.1
 - Better README
 - Added DOCS.md file
