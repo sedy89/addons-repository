@@ -1,3 +1,6 @@
+## v1.4.6
+- added mmconnect countrycode environment variable to config
+
 ## v1.4.5
 - dockerimage update
 
