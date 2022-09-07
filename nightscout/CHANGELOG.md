@@ -1,3 +1,6 @@
+## v1.4.7
+- fixed version of docker image to fix home assistant uninstall
+
 ## v1.4.6
 - added mmconnect countrycode environment variable to config
 
