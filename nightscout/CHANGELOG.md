@@ -1,3 +1,6 @@
+## v1.4.9
+- patched transform.js regardign utc timestamp issue https://github.com/nightscout/minimed-connect-to-nightscout/issues/30
+
 ## v1.4.8
 - switched to CGM dev branch for latest changes
 - added de_normalize flag to config
