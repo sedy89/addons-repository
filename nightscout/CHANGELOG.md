@@ -1,3 +1,8 @@
+## v1.4.8
+- switched to CGM dev branch for latest changes
+- added de_normalize flag to config
+- added mmconnect verbose flag to config
+
 ## v1.4.7
 - fixed version of docker image to fix home assistant uninstall
 
