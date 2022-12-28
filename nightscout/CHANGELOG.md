@@ -1,3 +1,6 @@
+## v1.5.0
+- switched to amd64 base 
+
 ## v1.4.9
 - patched transform.js regardign utc timestamp issue https://github.com/nightscout/minimed-connect-to-nightscout/issues/30
 
